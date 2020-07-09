@@ -1,5 +1,5 @@
 {
-  "FilePath": "e:\\projects\\ContosoUniversity\\ContosoUniversity.csproj",
+  "FilePath": "d:\\Projects\\ContosoUniversity\\ContosoUniversity.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -20521,68 +20521,68 @@
   "RootNamespace": "ContosoUniversity",
   "Documents": [
     {
-      "FilePath": "e:\\projects\\ContosoUniversity\\Pages\\Students\\Edit.cshtml",
-      "TargetPath": "Pages\\Students\\Edit.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\projects\\ContosoUniversity\\Pages\\Students\\Create.cshtml",
-      "TargetPath": "Pages\\Students\\Create.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\projects\\ContosoUniversity\\Pages\\Shared\\_Layout.cshtml",
+      "FilePath": "d:\\Projects\\ContosoUniversity\\Pages\\Shared\\_Layout.cshtml",
       "TargetPath": "Pages\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "e:\\projects\\ContosoUniversity\\Pages\\Students\\Delete.cshtml",
-      "TargetPath": "Pages\\Students\\Delete.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\projects\\ContosoUniversity\\Pages\\Students\\Index.cshtml",
-      "TargetPath": "Pages\\Students\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\projects\\ContosoUniversity\\Pages\\_ViewStart.cshtml",
-      "TargetPath": "Pages\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\projects\\ContosoUniversity\\Pages\\Index.cshtml",
-      "TargetPath": "Pages\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\projects\\ContosoUniversity\\Pages\\About.cshtml",
-      "TargetPath": "Pages\\About.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "e:\\projects\\ContosoUniversity\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FilePath": "d:\\Projects\\ContosoUniversity\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "e:\\projects\\ContosoUniversity\\Pages\\Error.cshtml",
-      "TargetPath": "Pages\\Error.cshtml",
+      "FilePath": "d:\\Projects\\ContosoUniversity\\Pages\\Students\\Delete.cshtml",
+      "TargetPath": "Pages\\Students\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "e:\\projects\\ContosoUniversity\\Pages\\Students\\Details.cshtml",
+      "FilePath": "d:\\Projects\\ContosoUniversity\\Pages\\Students\\Details.cshtml",
       "TargetPath": "Pages\\Students\\Details.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "e:\\projects\\ContosoUniversity\\Pages\\Privacy.cshtml",
+      "FilePath": "d:\\Projects\\ContosoUniversity\\Pages\\Privacy.cshtml",
       "TargetPath": "Pages\\Privacy.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "e:\\projects\\ContosoUniversity\\Pages\\_ViewImports.cshtml",
+      "FilePath": "d:\\Projects\\ContosoUniversity\\Pages\\Index.cshtml",
+      "TargetPath": "Pages\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Projects\\ContosoUniversity\\Pages\\_ViewStart.cshtml",
+      "TargetPath": "Pages\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Projects\\ContosoUniversity\\Pages\\Students\\Create.cshtml",
+      "TargetPath": "Pages\\Students\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Projects\\ContosoUniversity\\Pages\\Error.cshtml",
+      "TargetPath": "Pages\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Projects\\ContosoUniversity\\Pages\\_ViewImports.cshtml",
       "TargetPath": "Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Projects\\ContosoUniversity\\Pages\\Students\\Edit.cshtml",
+      "TargetPath": "Pages\\Students\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Projects\\ContosoUniversity\\Pages\\About.cshtml",
+      "TargetPath": "Pages\\About.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Projects\\ContosoUniversity\\Pages\\Students\\Index.cshtml",
+      "TargetPath": "Pages\\Students\\Index.cshtml",
       "FileKind": "mvc"
     }
   ],
